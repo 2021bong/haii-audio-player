@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/haii-audio-player-8team/static/css/main.ae69608d.css",
-    "main.js": "/haii-audio-player-8team/static/js/main.7797f35c.js",
+    "main.js": "/haii-audio-player-8team/static/js/main.c619523d.js",
     "index.html": "/haii-audio-player-8team/index.html",
     "main.ae69608d.css.map": "/haii-audio-player-8team/static/css/main.ae69608d.css.map",
-    "main.7797f35c.js.map": "/haii-audio-player-8team/static/js/main.7797f35c.js.map"
+    "main.c619523d.js.map": "/haii-audio-player-8team/static/js/main.c619523d.js.map"
   },
   "entrypoints": [
     "static/css/main.ae69608d.css",
-    "static/js/main.7797f35c.js"
+    "static/js/main.c619523d.js"
   ]
 }
