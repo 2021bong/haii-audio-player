@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/haii-audio-player-8team/static/css/main.ae69608d.css",
+    "main.js": "/haii-audio-player-8team/static/js/main.4caa0ea5.js",
+    "index.html": "/haii-audio-player-8team/index.html",
+    "main.ae69608d.css.map": "/haii-audio-player-8team/static/css/main.ae69608d.css.map",
+    "main.4caa0ea5.js.map": "/haii-audio-player-8team/static/js/main.4caa0ea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae69608d.css",
+    "static/js/main.4caa0ea5.js"
+  ]
+}
