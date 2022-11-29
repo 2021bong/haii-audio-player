@@ -1,16 +1,18 @@
-# 💫 HAII Audio player 8team
+# 💫 HAII Audio player
 
-### JUSTCODE 6기 기업협업 2주차 1번째 과제-오디오 재생 프로그램- 8팀
+### JUSTCODE 6기 기업과제 오디오 재생 프로그램
 
 <br />
 
-### **[📌링크](https://2021bong.github.io/haii-audio-player-8team/)**
+### **[👉 링크](https://2021bong.github.io/haii-audio-player/)**
 
 ---
 
 <br />
 
-## 🗓 개발 기간
+## ✅ 기존 프로젝트
+
+### - 개발 기간
 
 <br />
 
@@ -18,11 +20,7 @@
 <br />
 <br />
 
----
-
-## 🤹 팀원 및 협업 방식
-
-<br />
+### - 팀원 및 협업 방식
 
 **팀원**
 
